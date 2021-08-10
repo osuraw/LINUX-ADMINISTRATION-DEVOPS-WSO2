@@ -1,0 +1,223 @@
+dn: uid=c1,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c1
+cn:Sean
+sn:Parr
+mail:sean.parr@lt.com
+mobile:94771111145
+homePhone:940112820035
+employeeType:contractor
+registeredAddress:Johannesburg
+
+dn: uid=c2,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c2
+cn:Warren
+sn:Ferguson
+mail:warren.ferguson@lt.com
+mobile:94771111146
+homePhone:940112820036
+employeeType:contractor
+registeredAddress:Johannesburg
+
+dn: uid=c3,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c3
+cn:Gabrielle
+sn:Vaughan
+mail:gabrielle.vaughan@lt.com
+mobile:94771111147
+homePhone:940112820037
+employeeType:contractor
+registeredAddress:Colombo
+
+dn: uid=c4,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c4
+cn:Wendy
+sn:Davidson
+mail:wendy.davidson@lt.com
+mobile:94771111148
+homePhone:940112820038
+employeeType:contractor
+registeredAddress:Colombo
+
+dn: uid=c5,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c5
+cn:Alison
+sn:Hart
+mail:alison.hart@lt.com
+mobile:94771111149
+homePhone:940112820039
+employeeType:contractor
+registeredAddress:Colombo
+
+dn: uid=c6,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c6
+cn:Jane
+sn:Forsyth
+mail:jane.forsyth@lt.com
+mobile:94771111150
+homePhone:940112820040
+employeeType:contractor
+registeredAddress:New York
+
+dn: uid=c7,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c7
+cn:Ella
+sn:Allan
+mail:ella.allan@lt.com
+mobile:94771111151
+homePhone:940112820041
+employeeType:contractor
+registeredAddress:New York
+
+dn: uid=c8,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c8
+cn:Paul
+sn:Black
+mail:paul.black@lt.com
+mobile:94771111152
+homePhone:940112820042
+employeeType:contractor
+registeredAddress:New York
+
+dn: uid=c9,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c9
+cn:Natalie
+sn:Greene
+mail:natalie.greene@lt.com
+mobile:94771111153
+homePhone:940112820043
+employeeType:contractor
+registeredAddress:Moscow
+
+dn: uid=c10,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c10
+cn:Sophie
+sn:King
+mail:sophie.king@lt.com
+mobile:94771111154
+homePhone:940112820044
+employeeType:contractor
+registeredAddress:Moscow
+
+dn: uid=c11,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c11
+cn:James
+sn:Scott
+mail:james.scott@lt.com
+mobile:94771111155
+homePhone:940112820045
+employeeType:contractor
+registeredAddress:Moscow
+
+dn: uid=c12,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c12
+cn:Jane
+sn:Brown
+mail:jane.brown@lt.com
+mobile:94771111156
+homePhone:940112820046
+employeeType:contractor
+registeredAddress:Moscow
+
+dn: uid=c13,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c13
+cn:Kevin
+sn:Rees
+mail:kevin.rees@lt.com
+mobile:94771111157
+homePhone:940112820047
+employeeType:contractor
+registeredAddress:Moscow
+
+dn: uid=c14,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c14
+cn:Brandon
+sn:MacDonald
+mail:brandon.macdonald@lt.com
+mobile:94771111158
+homePhone:940112820048
+employeeType:contractor
+registeredAddress:Amsterdam
+
+dn: uid=c15,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c15
+cn:Olivia
+sn:Gill
+mail:olivia.gill@lt.com
+mobile:94771111159
+homePhone:940112820049
+employeeType:contractor
+registeredAddress:Amsterdam
+
+dn: uid=c16,ou=contractors,ou=employees,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid:c16
+cn:Lisa
+sn:McLean
+mail:lisa.mclean@lt.com
+mobile:94771111160
+homePhone:940112820050
+employeeType:contractor
+registeredAddress:Amsterdam
